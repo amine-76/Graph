@@ -1,0 +1,15 @@
+edge.reseau_facebook {
+    fill-color: blue;
+}
+
+edge.reseau_twitter {
+    fill-color: lightblue;
+}
+
+edge.reseau_instagram {
+    fill-color: pink;
+}
+
+edge.reseau_snapchat {
+    fill-color: yellow;
+}

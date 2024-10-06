@@ -1,0 +1,12 @@
+DGS004
+null 0 0
+an "Facebook"
+an "Twitter"
+an "Instagram"
+an "Snapchat"
+ae "Facebook" "Twitter"
+ae "Facebook" "Instagram"
+ae "Facebook" "Snapchat"
+ae "Twitter" "Instagram"
+ae "Twitter" "Snapchat"
+ae "Instagram" "Snapchat"
